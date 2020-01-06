@@ -1,0 +1,22 @@
+# Useful links
+    https://medium.com/hackr-io/learn-golang-best-go-tutorials-for-beginners-deb6cab45867
+
+    https://www.openmymind.net/assets/go/go.pdf
+
+    https://golang.org/doc/effective_go.html
+
+    https://gophercises.com/
+
+    http://diffusegroup.com.br/aa/apostilas/desenvolvimentos/curso%20GO/livros/Programando%20em%20Go%20-%20Crie%20aplica%C3%A7%C3%B5es%20com%20a%20linguagem%20do%20Google%20-%20Casa%20do%20C%C3%B3digo.pdf
+
+    https://github.com/golang-standards/project-layout
+
+# Golang Properties
+    When the variable is declared and receives a value at the same time, the 
+    compiler is smart enough to guess the variable type.
+
+    Go only has one loop structure, which is for.
+
+    Declaring a variable and not using it may cause a compilation error.
+    Due to this property, you may use the blank identifier (_).
+    
